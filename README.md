@@ -32,5 +32,7 @@ Under the QBShared.Jobs = {
 			['4'] = { name = 'Manager', isboss = true, payment = 150 },
         },
 	},
+Maps - https://drive.google.com/file/d/122Xp_VKwPqw8xO4xWFjnb3fQEDmOjbRe/view?usp=sharing
+
 
 For Help Join Discord https://discord.gg/ZT33gygV
