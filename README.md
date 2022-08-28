@@ -1,5 +1,6 @@
  qb-core/shared/items.lua
---Fz-Bakerymarie
+Under the QBShared.Items = {
+	 --Fz-Bakerymarie
 			-- Food
 	['almond_croissant'] 				 	 = {['name'] = 'almond_croissant', 			  	  		['label'] = 'Almond Croissant', 				['weight'] = 200, 		['type'] = 'item', 		['image'] = 'almond_croissant.png', 			['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'Nice Croissant for your stomach'},
 	['bagel'] 				 	 = {['name'] = 'bagel', 			  	  		['label'] = 'Bagel', 				['weight'] = 200, 		['type'] = 'item', 		['image'] = 'bagel.png', 			['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'Nice Croissant for your stomach'},
@@ -9,6 +10,7 @@
 	['chocolate_twista'] 				 	 = {['name'] = 'chocolate_twista', 			  	  		['label'] = 'Chocolate Twista ', 				['weight'] = 200, 		['type'] = 'item', 		['image'] = 'chocolate_twista.png', 			['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'Nice Croissant for your stomach'},
 	['croissant'] 				 	 = {['name'] = 'croissant', 			  	  		['label'] = 'Croissant ', 				['weight'] = 200, 		['type'] = 'item', 		['image'] = 'croissant.png', 			['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'Nice Croissant for your stomach'},
 	['pain_au_chocolat'] 				 	 = {['name'] = 'pain_au_chocolat', 			  	  		['label'] = 'Pain Au Chocolat ', 				['weight'] = 200, 		['type'] = 'item', 		['image'] = 'pain_au_chocolat.png', 			['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'Nice Croissant for your stomach'},
+
 	--Soda
 		["ecola"] 						= {["name"] = "ecola",  	    	 		["label"] = "eCola",		 			["weight"] = 100, 		["type"] = "item", 		["image"] = "ecola.png", 		["unique"] = false, 	["useable"] = true, 	["shouldClose"] = true,   	["combinable"] = nil,   ["description"] = "", ['thirst'] = math.random(20, 30) },
 		['water_bottle'] 				 = {['name'] = 'water_bottle', 			  	  	['label'] = 'Bottle of Water', 			['weight'] = 500, 		['type'] = 'item', 		['image'] = 'water_bottle.png', 		['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'For all the thirsty out there'},
